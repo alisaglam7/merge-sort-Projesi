@@ -22,3 +22,6 @@
 *Big-O gösterimini yazınız.
 
 O(nlogn)
+
+
+[Teşekkürler](https://www.patika.dev)
